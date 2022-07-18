@@ -35,7 +35,7 @@ except:                                       ##################################
 
 # We generalize the main class of <trape>
 trackPeople = Trape()
-
+print("HEREXX")
 # call class database
 generateData = Database()
 if generateData.firstTime:

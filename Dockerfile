@@ -1,4 +1,4 @@
-FROM python:2.7-alpine
+FROM python:3.8-alpine
 
 # Build dependencies
 RUN apk add --no-cache build-base gcc
